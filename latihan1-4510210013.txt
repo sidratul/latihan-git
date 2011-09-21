@@ -27,15 +27,25 @@ e-mail:tear_ofregret@hotmail.co.id
 
 bugfix, karena base on master jadi bug fix sama dengan master. !!
 
-marge
+baru
+buat branch bag fix(paralel development)
+1. buta branch bugfix
+	tortoise> creat branch
+	nama branch :bugfix
+	base on : HEAD (master)
 
-3 pindah ke branch bug fix
+2. melihat branch yang sedang aktif
+	-klik kanan, lihat (jangan klik) commit -> master
+	master adalah branch aktif.
+
+
+3. pindah ke branch bug fix
 	-tortoise >swicth/checkout
 	-branch : pilih bugfix
 	-cek branch yang sedang aktif seperti langkah 2
 	harusnya tulisannya commit bugfix
 
-4 show log untuk melihat posisi branch dan centang all branch
+4. show log untuk melihat posisi branch dan centang all branch
 
 marge
 1 marge bugfix(branch asal = bugfix)
@@ -46,5 +56,5 @@ marge
 	-klik ok
 	-lihat pesannya succes atu conflict
 
-2
+2 kalau eror hapus txt eror dan klik kanan resolve
 

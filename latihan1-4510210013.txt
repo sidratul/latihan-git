@@ -26,3 +26,14 @@ e-mail:tear_ofregret@hotmail.co.id
   pada bagian branc ganti master-->ok
 
 bugfix, karena base on master jadi bug fix sama dengan master. !!
+
+marge
+1 marge bugfix(branch asal = bugfix)
+  kedalam master (branch tujuan = master)
+	-pindah branch tujuan
+	-tortoise>marge
+	-pilih branch asal (from branch diganti bugfix)
+	-klik ok
+	-lihat pesannya succes atu conflict
+
+2

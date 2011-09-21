@@ -3,3 +3,5 @@ npm : 4510210013
 
 menambahkan
 belajar github
+
+alamat e-mail:tear_ofregret@hotmail.co.id

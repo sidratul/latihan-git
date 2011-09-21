@@ -5,12 +5,22 @@ menambahkan
 belajar github
 
 e-mail:tear_ofregret@hotmail.co.id
+1 instal github
+2 instal tortoise
+3 buat folder baru -->klik kanan pilih git--creat here.
+  lalu akan muncul folder .git
+4 buat file txt-->edit file txt tersebut.
+5 klik kanan pada file tersebut pilih git commit->"master"-->isi keterangan:
+	message : (contoh : latihan 1)
+	centang file txt tadi
+ klik ok dan tunggu sampai muncul pesan succes lalu close
+6 ketika melalakukan perubuhan lakukan langkah ke 5
+ 
+7 terdahulu
+  klik kanan -->tortoise-->show log-->klik kanan pada file terdahulu -->
+  swicth/checkout to this-->hilangin centang-->ok
+  maka file sekarang berubah menjadi terdahulu.
 
-terdahulu
-klik kanan -->tortoise-->show log-->klik kanan pada file terdahulu -->
-swicth/checkout to this-->hilangin centang-->ok
-maka file sekarang berubah menjadi terdahulu.
-
-kesemula
-klik kanan-->tortoise-->switch/checkout-->
-pada bagian branc ganti master-->ok
+8 kesemula
+  klik kanan-->tortoise-->switch/checkout-->
+  pada bagian branc ganti master-->ok

@@ -24,3 +24,5 @@ e-mail:tear_ofregret@hotmail.co.id
 8 kesemula
   klik kanan-->tortoise-->switch/checkout-->
   pada bagian branc ganti master-->ok
+
+buat branch bag fix(paralel development)

@@ -12,4 +12,5 @@ swicth/checkout to this-->hilangin centang-->ok
 maka file sekarang berubah menjadi terdahulu.
 
 kesemula
-klik kanan-->tortoise-->switch/checkout-->pada bagian branc ganti master-->ok
+klik kanan-->tortoise-->switch/checkout-->
+pada bagian branc ganti master-->ok

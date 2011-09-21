@@ -40,3 +40,5 @@ buat branch bag fix(paralel development)
 	-branch : pilih bugfix
 	-cek branch yang sedang aktif seperti langkah 2
 	harusnya tulisannya commit bugfix
+
+4 show log untuk melihat posisi branch dan centang all branch

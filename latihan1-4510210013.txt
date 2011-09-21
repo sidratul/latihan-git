@@ -27,6 +27,7 @@ e-mail:tear_ofregret@hotmail.co.id
 
 bugfix, karena base on master jadi bug fix sama dengan master. !!
 
+
 baru
 buat branch bag fix(paralel development)
 1. buta branch bugfix

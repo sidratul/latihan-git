@@ -26,3 +26,17 @@ e-mail:tear_ofregret@hotmail.co.id
   pada bagian branc ganti master-->ok
 
 buat branch bag fix(paralel development)
+1 buta branch bugfix
+	tortoise> creat branch
+	nama branch :bugfix
+	base on : HEAD (master)
+
+2 melihat branch yang sedang aktif
+	-klik kanan, lihat (jangan klik) commit -> master
+	master adalah branch aktif
+
+3 pindah ke branch bug fix
+	-tortoise >swicth/checkout
+	-branch : pilih bugfix
+	-cek branch yang sedang aktif seperti langkah 2
+	harusnya tulisannya commit bugfix

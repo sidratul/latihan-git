@@ -42,3 +42,14 @@ buat branch bag fix(paralel development)
 	harusnya tulisannya commit bugfix
 
 4 show log untuk melihat posisi branch dan centang all branch
+
+marge
+1 marge bugfix(branch asal = bugfix)
+  kedalam master (branch tujuan = master)
+	-pindah branch tujuan
+	-tortoise>marge
+	-pilih branch asal (from branch diganti bugfix)
+	-klik ok
+	-lihat pesannya succes atu conflict
+
+2

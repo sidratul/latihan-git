@@ -25,20 +25,15 @@ e-mail:tear_ofregret@hotmail.co.id
   klik kanan-->tortoise-->switch/checkout-->
   pada bagian branc ganti master-->ok
 
-buat branch bag fix(paralel development)
-1 buta branch bugfix
-	tortoise> creat branch
-	nama branch :bugfix
-	base on : HEAD (master)
+bugfix, karena base on master jadi bug fix sama dengan master. !!
 
-2 melihat branch yang sedang aktif
-	-klik kanan, lihat (jangan klik) commit -> master
-	master adalah branch aktif
+marge
+1 marge bugfix(branch asal = bugfix)
+  kedalam master (branch tujuan = master)
+	-pindah branch tujuan
+	-tortoise>marge
+	-pilih branch asal (from branch diganti bugfix)
+	-klik ok
+	-lihat pesannya succes atu conflict
 
-3 pindah ke branch bug fix
-	-tortoise >swicth/checkout
-	-branch : pilih bugfix
-	-cek branch yang sedang aktif seperti langkah 2
-	harusnya tulisannya commit bugfix
-
-4 show log untuk melihat posisi branch dan centang all branch
+2
